@@ -1,0 +1,37 @@
+{
+  "courses": [
+    {
+      "time": "1 hr 40 mins",
+      "modulesCounts": 2,
+      "type": "Trail",
+      "name": "Use Marketing Cloud Connect to Integrate with Salesforce CRM",
+      "parameters": "Learn how to powerful features of Marketing Cloud Connect can integrate sales, marketing",
+      "role": "Admin",
+      "level": "Beginner",
+      "products": ["Community Cloud", "Marketing Cloud"],
+      "tags": ["tag5", "tag6"]
+    },
+    {
+      "time": "1 hr 40 mins",
+      "modulesCounts": 2,
+      "type": "Trail",
+      "name": "Use Marketing Cloud Connect to Integrate with Salesforce CRM",
+      "parameters": "Learn how to powerful features of Marketing Cloud Connect can integrate sales, marketing",
+      "role": "Business User",
+      "level": "Intermediate",
+      "products": ["Community Cloud", "Marketing Cloud"],
+      "tags": ["tag5", "tag6"]
+    },
+    {
+      "time": "1 hr 40 mins",
+      "modulesCounts": 2,
+      "type": "Trail",
+      "name": "Use Marketing Cloud Connect to Integrate with Salesforce CRM",
+      "parameters": "Learn how to powerful features of Marketing Cloud Connect can integrate sales, marketing",
+      "role": "Developer",
+      "level": "Advanced",
+      "products": ["Community Cloud", "Marketing Cloud"],
+      "tags": ["tag5", "tag6"]
+    }
+  ]
+}
